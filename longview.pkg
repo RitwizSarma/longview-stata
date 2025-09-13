@@ -1,0 +1,8 @@
+v 2
+d longview: Plot cumulative treatment effects from event studies
+d Author: Ritwiz Sarma, CAFRAL (Reserve Bank of India)
+d Version 0.2, September 2025
+d Website: https://www.ritwizsarma.github.io
+d Dependencies: reghdfe, parmest
+p longview.ado
+h longview.sthlp
