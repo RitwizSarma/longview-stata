@@ -17,7 +17,7 @@ This approach is particularly useful when the research question focuses on long-
 You can install the package directly from GitHub:
 
 ```stata
-net install longview, from("https://raw.githubusercontent.com/ritwizsarma/longview/main/")
+net install longview, from("https://raw.githubusercontent.com/ritwizsarma/longview-stata/main/")
 ```
 
 ---
